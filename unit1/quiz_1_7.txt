@@ -1,0 +1,16 @@
+1. pop=200, diff_rate=0, evap_rate=0
+	- 706
+	- 968
+	- 911 
+2. pop=200, diff_rate=99, evap_rate=0
+	- 892
+	- 854
+	- 780
+3. pop=200, diff_rate=0, evap_rate=99
+	- 711
+	- 779
+	- 818
+4. pop=200, diff_rate=10, evap_rate=10
+	- 678
+	- 613 
+	- 473

@@ -1,0 +1,293 @@
+%PDF-1.2 
+%‚„œ”
+ 
+10 0 obj
+<<
+/Length 11 0 R
+>>
+stream
+BT222.75 705.75  TD0 0 0 rg /F0 15.75  Tf0.164  Tc 0.0235  Tw (Measures of Complexity) Tj11.25 -24  TD 0.0872  Tc -0.2747  Tw (a non--exhaustive list) Tj42 -21.75  TD /F0 12.75  Tf0.0308  Tc 0.5317  Tw (Seth Lloyd) Tj-123 -20.25  TD /F1 12  Tf-0.042  Tc 0.417  Tw (d'Arbeloff Laboratory for Information Systems and Technology) Tj58.5 -20.25  TD -0.0162  Tc 0.0162  Tw (Department of Mechanical Engineering) Tj2.25 -19.5  TD -0.0362  Tc 0.5362  Tw (Massachusetts Institute of Technology) Tj54 -20.25  TD 0.0373  Tc 0  Tw (slloyd@mit.edu) Tj-177.75 -19.5  TD -0.0884  Tc 0.4634  Tw ( The world has grown more complex recently, and the number of ways of measuring) Tj0 -13.5  TD -0.066  Tc 0.4698  Tw (complexity has grown even faster.  This multiplication of measures has been taken by) Tj0 -14.25  TD -0.0559  Tc 0.3372  Tw (some to indicate confusion in the field of complex systems.   In fact, the many measures) Tj0 -13.5  TD -0.0551  Tc 0.4013  Tw (of complexity represent variations on a few underlying themes.  Here is an \(incomplete\)) Tj0 -14.25  TD -0.0688  Tc 0.4855  Tw (list of measures of complexity grouped into the corresponding themes.) Tj0 -19.5  TD -0.0461  Tc 0.2768  Tw (An historical analog to the problem of measuring complexity is the problem of describing) Tj0 -13.5  TD -0.0157  Tc 0.0907  Tw (electromagnetism  before Maxwell's equations.  In the case of electromagnetism,) Tj0 -14.25  TD -0.0272  Tc 0.2147  Tw (quantities such as electric and magnetic forces that arose  in different experimental) Tj0 -13.5  TD -0.0364  Tc 0.241  Tw (contexts were originally regarded  as fundamentally different.  Eventually it became) Tj0 -14.25  TD -0.0808  Tc 0.4557  Tw (clear that electricity and magnetism were in fact closely  related aspects of the same) Tj0 -13.5  TD -0.0317  Tc 0.2567  Tw (fundamental quantity, the  electromagnetic field.  Similarly, contemporary researchers in) TjT* -0.0437  Tc 0.377  Tw (architecture, biology, computer science,  dynamical systems, engineering, finance, game) Tj0 -14.25  TD -0.0759  Tc 0.3973  Tw (theory, etc.,  have defined different measures of complexity for  each field.  Because) Tj0 -13.5  TD -0.0338  Tc 0.2213  Tw (these researchers were asking the same questions about the complexity of their different) Tj0 -14.25  TD -0.0973  Tc 0.4973  Tw (subjects of research, however, the answers that they came  up with for how to measure) Tj0 -13.5  TD -0.0249  Tc 0.0249  Tw (complexity bear a considerable similarity to ) Tj213 0  TD -0.0366  Tc 0.3366  Tw (eachother.  Three questions that researchers) Tj-213 -13.5  TD -0.0651  Tc 0.3378  Tw (frequently ask to quantify the complexity of the thing \(house, bacterium, problem,) Tj0 -14.25  TD -0.0624  Tc 0.3124  Tw (process, investment scheme\)  under study are) Tj0 -19.5  TD -0.1553  Tc 0.6553  Tw (1. How hard is it to describe?) Tj0 -20.25  TD -0.1653  Tc 0.6653  Tw (2. How hard is it to create?) Tj0 -19.5  TD -0.0587  Tc 0.3087  Tw (3. What is its degree of organization?) TjT* -0.0679  Tc 0.4679  Tw (Here is a list of some measures of complexity grouped according to the question that they) Tj0 -14.25  TD -0.0304  Tc 0.1668  Tw (try to answer. Measures within a group are typically closely related quantities.) Tj0 -39.75  TD /F0 12  Tf0.1003  Tc -0.3503  Tw (1. Difficulty of description) Tj135 0  TD /F1 12  Tf-0.1262  Tc 0.4262  Tw (.  Typically measured in bits.) Tj-135 -19.5  TD -0.055  Tc 0  Tw (Information;) Tj0 -19.5  TD -0.1875  Tc (Entropy;) Tj0 -20.25  TD -0.041  Tc 0.341  Tw (Algorithmic Complexity or Algorithmic Information Content;) Tj0 -19.5  TD -0.0734  Tc 0.8234  Tw (Minimum Description Length;) Tj0 -20.25  TD -0.0367  Tc 0.0367  Tw (Fisher Information;) TjETendstream
+endobj
+11 0 obj
+3758
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 8 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 10 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 14 0 R
+>>
+stream
+BT90 709.5  TD0 0 0 rg /F1 12  Tf-0.186  Tc 0.936  Tw (Renyi Entropy;) Tj0 -20.25  TD -0.0369  Tc 0.0369  Tw (Code Length \(prefix-free, Huffman, Shannon-) Tj222 0  TD -0.0255  Tc 0.4005  Tw (Fano, error-correcting, Hamming\);) Tj-222 -19.5  TD -0.024  Tc 0.024  Tw (Chernoff Information;) Tj0 -20.25  TD -0.0504  Tc 0  Tw (Dimension;) Tj0 -19.5  TD -0.1534  Tc -0.5966  Tw (Fractal ) Tj36 0  TD -0.1254  Tc 0  Tw (Dimension;) Tj-36 -19.5  TD -0.0503  Tc (Lempel--) Tj44.25 0  TD -0.096  Tc 0.096  Tw (Ziv Complexity.) Tj-44.25 -39.75  TD /F0 12  Tf0.0957  Tc -0.5957  Tw (2. Difficulty of creation) Tj119.25 0  TD /F1 12  Tf-0.073  Tc 0.3542  Tw (.  Typically measured in time, energy, dollars, etc.) Tj-119.25 -20.25  TD -0.0646  Tc -0.6854  Tw (Computational ) Tj73.5 0  TD -0.0693  Tc 0  Tw (Complexity;) Tj-73.5 -19.5  TD -0.0512  Tc 0.0512  Tw (Time Computational Complexity;) Tj0 -19.5  TD -0.0606  Tc 0.0606  Tw (Space Computational Complexity;) Tj0 -20.25  TD -0.0571  Tc 0.0571  Tw (Information--Based Complexity;) Tj0 -19.5  TD -0.1403  Tc 0.1403  Tw (Logical Depth;) Tj0 -20.25  TD -0.0913  Tc 0.0913  Tw (Thermodynamic Depth;) Tj0 -19.5  TD -0.1188  Tc 0  Tw (Cost;) TjT* -0.1293  Tc (Crypticity.) Tj0 -20.25  TD /F0 12  Tf0.1135  Tc -0.4885  Tw (3. Degree of organization. ) Tj135.75 0  TD /F1 12  Tf-0.053  Tc 0.2576  Tw (This may be divided up into two quantities:  a\) Difficulty of) Tj-135.75 -13.5  TD -0.0227  Tc 0.1165  Tw (describing organizational structure, whether corporate, chemical, cellular, etc.; b\)) Tj0 -14.25  TD -0.0434  Tc 0.2041  Tw (Amount of information shared between the parts of a system as the result of this) Tj0 -13.5  TD -0.0163  Tc 0.0163  Tw (organizational structure.) Tj0 -19.5  TD /F2 12  Tf0.0646  Tc -0.0646  Tw (a\) Effective Complexity) Tj0 -20.25  TD /F1 12  Tf-0.0865  Tc 0.2911  Tw (Metric Entropy;    Fractal Dimension;    Excess Entropy;) Tj0 -19.5  TD -0.0283  Tc 0.0283  Tw (Stochastic Complexity;) Tj0 -20.25  TD -0.1008  Tc 0  Tw (Sophistication;) Tj0 -19.5  TD -0.0207  Tc 0.0207  Tw (Effective Measure Complexity;) TjT* -0.0788  Tc 0.0788  Tw (True Measure Complexity;) Tj0 -20.25  TD -0.0343  Tc 0.0343  Tw (Topological epsilon-machine size;) Tj0 -19.5  TD -0.0387  Tc 0.0387  Tw (Conditional ) Tj59.25 0  TD 0.0075  Tc 0  Tw (Information;) Tj-59.25 -20.25  TD -0.0246  Tc 0.0246  Tw (Conditional Algorithmic Information Content;) Tj0 -19.5  TD -0.082  Tc 0.082  Tw (Schema ) Tj41.25 0  TD -0.2623  Tc 0  Tw (length;) Tj-41.25 -19.5  TD -0.0938  Tc 0.0938  Tw (Ideal Complexity;) Tj0 -20.25  TD -0.0681  Tc 0.0681  Tw (Hierarchical Complexity;) Tj0 -19.5  TD -0.246  Tc 0.246  Tw (Tree ) Tj24.75 0  TD -0.0877  Tc 0.0877  Tw (subgraph diversity;) TjETendstream
+endobj
+14 0 obj
+2770
+endobj
+12 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 8 0 R 
+/F2 15 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 13 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 19 0 R
+>>
+stream
+BT90 709.5  TD0 0 0 rg /F1 12  Tf-0.0976  Tc 0.0976  Tw (Homogeneous ) Tj71.25 0  TD 0.0671  Tc 0  Tw (Complexity;) Tj-71.25 -20.25  TD -0.0717  Tc 0.0717  Tw (Grammatical Complexity.) Tj0 -19.5  TD /F2 12  Tf-0.0123  Tc 0.0123  Tw (b\) Mutual Information:) Tj0 -20.25  TD /F1 12  Tf-0.0861  Tc 0.4611  Tw (Algorithmic Mutual Information;) Tj0 -19.5  TD -0.0308  Tc 0.0308  Tw (Channel Capacity;) TjT* -0.1455  Tc 0  Tw (Correlation;) Tj0 -20.25  TD -0.097  Tc 0.097  Tw (Stored ) Tj33.75 0  TD 0.0075  Tc 0  Tw (Information;) Tj-33.75 -19.5  TD -0.0886  Tc (Organization.) Tj0 -39.75  TD -0.0619  Tc 0.2962  Tw ( In addition to the above measures, there are a number of related concepts that are not) Tj0 -13.5  TD -0.0301  Tc 0.1455  Tw (quantitative measures of complexity per se, but that are closely related.  Such concepts) Tj0 -14.25  TD -0.1183  Tc 0  Tw (include) Tj0 -19.5  TD -0.0473  Tc 0.0473  Tw (Long--Range Order;) Tj0 -20.25  TD -0.0954  Tc 0  Tw (Self--Organization;) Tj0 -19.5  TD -0.0365  Tc 0.0365  Tw (Complex Adaptive Systems;) TjT* -0.0755  Tc 0.0755  Tw (Edge of Chaos.) Tj0 -20.25  TD -0.135  Tc 0.6037  Tw (Please feel free to send me additions to this list, whether or not they fall in the) Tj0 -13.5  TD -0.0863  Tc 0.8363  Tw (classification scheme.) Tj0 -20.25  TD 0.0008  Tc 0.3742  Tw (Seth Lloyd, slloyd@mit.edu) TjETendstream
+endobj
+19 0 obj
+1378
+endobj
+17 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F1 8 0 R 
+/F2 15 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 18 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F0
+/BaseFont /TimesNewRoman,Bold
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 555 500 500 1000 833 278 333 333 500 570 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 333 333 570 570 570 
+500 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 
+778 611 778 722 556 667 722 722 1000 722 722 667 333 278 333 581 
+500 333 500 556 444 556 444 333 500 556 278 333 556 278 833 556 
+500 556 556 444 389 333 556 500 722 500 500 444 394 220 394 520 
+778 500 778 333 500 500 1000 500 500 333 1000 556 333 1000 778 778 
+778 778 333 333 500 500 350 500 1000 333 1000 389 333 722 778 778 
+722 250 333 500 500 500 500 220 500 333 747 300 500 570 333 747 
+500 400 549 300 300 333 576 540 250 333 300 330 500 750 750 750 
+500 722 722 722 722 722 722 1000 722 667 667 667 667 389 389 389 
+389 722 722 778 778 778 778 778 570 778 722 722 722 722 722 611 
+556 500 500 500 500 500 500 722 444 444 444 444 444 278 278 278 
+278 500 556 500 500 500 500 500 549 500 556 556 556 556 500 556 
+500 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman,Bold
+/Flags 16418
+/FontBBox [ -250 -238 1200 905 ]
+/MissingWidth 762
+/StemV 136
+/StemH 136
+/ItalicAngle 0
+/CapHeight 905
+/XHeight 633
+/Ascent 905
+/Descent -238
+/Leading 191
+/MaxWidth 1000
+/AvgWidth 429
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /TimesNewRoman
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 
+444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 
+722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 
+500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 
+500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 
+778 500 778 333 500 444 1000 500 500 333 1000 556 333 889 778 778 
+778 778 333 333 444 444 350 500 1000 333 980 389 333 722 778 778 
+722 250 333 500 500 500 500 200 500 333 760 276 500 564 333 760 
+500 400 549 300 300 333 576 453 250 333 300 310 500 750 750 750 
+444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 
+333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 
+500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 
+278 500 500 500 500 500 500 500 549 500 500 500 500 500 500 500 
+500 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 9 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman
+/Flags 34
+/FontBBox [ -250 -250 1200 938 ]
+/MissingWidth 750
+/StemV 68
+/StemH 68
+/ItalicAngle 0
+/CapHeight 938
+/XHeight 656
+/Ascent 938
+/Descent -250
+/Leading 251
+/MaxWidth 1000
+/AvgWidth 375
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /TimesNewRoman,Italic
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 420 500 500 833 778 214 333 333 500 675 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 333 333 675 675 675 
+500 920 611 611 667 722 611 611 722 722 333 444 667 556 833 667 
+722 611 722 611 500 556 722 611 833 611 556 556 389 278 389 422 
+500 333 500 500 444 500 444 278 500 500 278 278 444 278 722 500 
+500 500 500 389 389 278 500 444 667 444 444 389 400 275 400 541 
+778 500 778 333 500 556 889 500 500 333 1000 500 333 944 778 778 
+778 778 333 333 556 556 350 500 889 333 980 389 333 667 778 778 
+556 250 389 500 500 500 500 275 500 333 760 276 500 675 333 760 
+500 400 549 300 300 333 576 523 250 333 300 310 500 750 750 750 
+500 611 611 611 611 611 611 889 667 611 611 611 611 333 333 333 
+333 722 667 722 722 722 722 722 675 722 722 722 722 722 556 611 
+500 500 500 500 500 500 500 667 444 444 444 444 444 278 278 278 
+278 500 500 500 500 500 500 500 549 500 500 500 500 500 444 500 
+444 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman,Italic
+/Flags 98
+/FontBBox [ -250 -250 1200 938 ]
+/MissingWidth 750
+/StemV 68
+/StemH 68
+/ItalicAngle -11
+/CapHeight 938
+/XHeight 656
+/Ascent 938
+/Descent -250
+/Leading 251
+/MaxWidth 1000
+/AvgWidth 375
+>>
+endobj
+2 0 obj
+[ /PDF /Text  ]
+endobj
+5 0 obj
+<<
+/Kids [4 0 R 12 0 R 17 0 R ]
+/Count 3
+/Type /Pages
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+1 0 obj
+<<
+/Creator <FEFF004D006900630072006F0073006F0066007400200057006F007200640020>
+/CreationDate (D:20001101111613)
+/Title <FEFF0043006F006D0070006C00650078006900740079002E005000440046>
+/Author <FEFF00440065006600610075006C0074>
+/Producer (Acrobat PDFWriter 4.05 for Windows)
+>>
+endobj
+3 0 obj
+<<
+/Pages 5 0 R
+/Type /Catalog
+/DefaultGray 20 0 R
+/DefaultRGB  21 0 R
+>>
+endobj
+20 0 obj
+[/CalGray
+<<
+/WhitePoint [0.9505 1 1.089 ]
+/Gamma 0.2468 
+>>
+]
+endobj
+21 0 obj
+[/CalRGB
+<<
+/WhitePoint [0.9505 1 1.089 ]
+/Gamma [0.2468 0.2468 0.2468 ]
+/Matrix [0.4361 0.2225 0.0139 0.3851 0.7169 0.0971 0.1431 0.0606 0.7141 ]
+>>
+]
+endobj
+xref
+0 22
+0000000000 65535 f
+0000013004 00000 n
+0000012864 00000 n
+0000013303 00000 n
+0000003864 00000 n
+0000012898 00000 n
+0000008630 00000 n
+0000009760 00000 n
+0000010049 00000 n
+0000011169 00000 n
+0000000021 00000 n
+0000003840 00000 n
+0000006863 00000 n
+0000004008 00000 n
+0000006839 00000 n
+0000011448 00000 n
+0000012575 00000 n
+0000008484 00000 n
+0000007021 00000 n
+0000008460 00000 n
+0000013400 00000 n
+0000013487 00000 n
+trailer
+<<
+/Size 22
+/Root 3 0 R
+/Info 1 0 R
+/ID [<0dd28efa8b5393fffaf885f75b94d40c><0dd28efa8b5393fffaf885f75b94d40c>]
+>>
+startxref
+13664
+%%EOF
